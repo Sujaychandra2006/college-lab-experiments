@@ -1,0 +1,9 @@
+Experiment 1: Installation and configuration of Git.
+Basic operations performed locally:
+- git init
+- git add
+- git commit
+- git status
+- git log
+
+This repository demonstrates the remote side of the work.
